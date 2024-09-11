@@ -20,8 +20,8 @@ Project Structure
 
 project_directory
 ├── data
-│   ├── train_images
-│   ├── test_images
+│   ├── train_videos
+│   ├── test_videos
 │   └── ...
 ├── model
 │   ├── model.py
